@@ -73,3 +73,19 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 **/[Aa]ssets/[Ss]treamingAssets/aa.meta
 **/[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Assets/SaveGameDB.meta
+Assets/Scripts/Character/PlatformerCharacter2D.cs.bak.meta
+Assets/Scripts/Editor.meta
+Assets/Third-part/2d Art Pack/Unity 2d Project Assets/sound.meta
+*.meta
