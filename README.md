@@ -6,7 +6,7 @@ O jogo foi criado para apresentar aos jovens personagens do folclore brasileiro,
 
 Desenvolvido como um jogo de plataforma 2D single player local, **Folclórica** utiliza o Unity 3D como motor de jogo e a linguagem C# para os scripts de controle e o banco de dados SQLite para o salvamento local dos dados do jogo. Diversos pacotes, componentes e bibliotecas da Asset Store da Unity foram empregados para aprimorar efeitos de partículas, física, sistema de menu e sprites do jogo.
 
-Para aumentar o engajamento dos alunos/jogadores, a pontuação final de cada fase é enviada para um servidor web construído com PHP, MySQL, JavaScript e CSS, permitindo a visualização de um quadro de classificação com as pontuações dos jogadores.
+Para aumentar o engajamento dos alunos/jogadores, a pontuação final de cada fase é enviada para um servidor web construído com PHP, MySQL, JavaScript e CSS, permitindo a visualização de um quadro de classificação com as pontuações dos jogadores. Os arquivos do sistema web estão localizados em 'folclorica/WebServerFiles'.
 
 O vídeo do gameplay da primeira fase do jogo está disponível em: https://www.youtube.com/watch?v=Mk_345hXZCw
 
@@ -18,6 +18,6 @@ The game was created to introduce young people to characters from Brazilian folk
 
 Developed as a local single-player 2D platformer, **Folclórica** uses the Unity 3D game engine, C# for its controlling scripts, and SQLite for local data saving. Additionally, assorted packages, components, and libraries from the Unity Asset Store were employed to enhance particle effects, physics, menu systems, and game sprites.
 
-To increase student/player engagement, the final score of each level is sent to a web server built using PHP, MySQL, JavaScript, and CSS, for displaying a leaderboard of players' high scores.
+To increase student/player engagement, the final score of each level is sent to a web server built using PHP, MySQL, JavaScript, and CSS, for displaying a leaderboard of players' high scores. The web system files are located in 'folclorica/WebServerFiles'.
 
 The gameplay video of the first level of the game is available at: https://www.youtube.com/watch?v=Mk_345hXZCw
