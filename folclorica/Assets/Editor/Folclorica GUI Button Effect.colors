@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12323, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: Folclorica GUI Button Effect
+  m_EditorClassIdentifier: 
+  m_Presets:
+  - m_Name: 
+    m_Color: {r: .0863970593, g: .365846902, b: .691176474, a: 1}
+  - m_Name: 
+    m_Color: {r: .431372553, g: .925490201, b: .592156887, a: 1}
+  - m_Name: 
+    m_Color: {r: .992647052, g: .248161763, b: .248161763, a: 1}
+  - m_Name: 
+    m_Color: {r: .980392158, g: .796078444, b: .407843143, a: 1}
+  - m_Name: 
+    m_Color: {r: .447058856, g: .752941251, b: .964705944, a: 1}
+  - m_Name: 
+    m_Color: {r: .90196079, g: .90196079, b: .90196079, a: 1}
+  - m_Name: 
+    m_Color: {r: .70588237, g: .70588237, b: .70588237, a: 1}
+  - m_Name: 
+    m_Color: {r: .784313738, g: .784313738, b: .784313738, a: .501960814}
+  - m_Name: 
+    m_Color: {r: .992647052, g: .981572866, b: .832071781, a: .784313738}
+  - m_Name: 
+    m_Color: {r: .0683518946, g: .198529422, b: .0218966249, a: .494117647}
+  - m_Name: 
+    m_Color: {r: .220588207, g: .220588207, b: .220588207, a: 1}
+  - m_Name: 
+    m_Color: {r: 1, g: .962068975, b: .838235259, a: .862745106}
+  - m_Name: 
+    m_Color: {r: .433823526, g: 1, b: .50610137, a: 1}
+  - m_Name: 
+    m_Color: {r: .351373255, g: .713235259, b: .397568405, a: 1}
+  - m_Name: 
+    m_Color: {r: .118944637, g: .29411763, b: .13988924, a: 1}
+  - m_Name: 
+    m_Color: {r: .992647052, g: .988418758, b: .839370668, a: 1}
+  - m_Name: 
+    m_Color: {r: .433769464, g: .781243265, b: .83088237, a: 1}
+  - m_Name: 
+    m_Color: {r: .867647052, g: .867647052, b: .867647052, a: 1}
+  - m_Name: 
+    m_Color: {r: .926470578, g: .403569072, b: .211180776, a: 1}
+  - m_Name: 
+    m_Color: {r: .867647052, g: .867647052, b: .867647052, a: 1}
+  - m_Name: 
+    m_Color: {r: .602941155, g: .444523364, b: .11083477, a: 1}
+  - m_Name: 
+    m_Color: {r: 1, g: 0, b: 0, a: 1}
+  - m_Name: 
+    m_Color: {r: .326827407, g: .477941155, b: .344895363, a: 1}
+  - m_Name: 
+    m_Color: {r: .160575241, g: .652253985, b: .992647052, a: 1}
+  - m_Name: 
+    m_Color: {r: .320501715, g: .764705896, b: .37720862, a: 1}
+  - m_Name: 
+    m_Color: {r: .865111589, g: 1, b: .0220588446, a: 1}

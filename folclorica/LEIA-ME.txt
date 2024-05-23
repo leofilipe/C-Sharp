@@ -1,0 +1,6 @@
+Corpo boitatá - A ideia aqui, que parece envolver menor complexidade que a original é utilizar o algoritmo das plataformas moveis. Com uma animação em loop do corpo do boitatá serpenteando em desenho similar a da Serra do Rio do Rastro que se encontra no documento de jogo, a ideia é colocar ao longo do mesmo pequenas ilhas ou pedras sendo trazidas pelo corpo para que o jogador use como plataformas e possa chegar a area oculta. Após um dado ponto essas pedras tem seu renderer e colisores desligados e para que possam voltar ao inicio do percurso sem serem percebidas pelo jogador.
+
+
+Jaula Carbúnculo - Aqui a ideia é que depois de libertar o carbunculo a ponta da corda sem a jaula presa a ela se torne escalavel (evitando que o jogador tenha que repetir todo o puzzle com as ilhas flutuantes). Ao mesmo tempo, as plataformas flutuantes são desativadas, liberando o caminho para a tirolesa.
+
+Boi da Cara-Preta - Distribuir olhos ao longo do caminho para serem coletados. Usar o crouch (agachar) para evitar ser pisoteado pelo boi.

@@ -1,0 +1,2 @@
+Copiar arquivo SavedGames.fd para o seguinte caminho: 
+	C:\Users\<Usuario>\AppData\LocalLow\DefaultCompany\Folclorica
